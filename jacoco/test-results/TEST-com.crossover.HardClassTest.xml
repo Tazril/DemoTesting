@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crossover.HardClassTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-09-09T17:23:50" hostname="EC2AMAZ-TGPJAA9" time="7.279">
+  <properties/>
+  <testcase name="shouldReturnHIGH_WhenRatingEqualsMidCeiling" classname="com.crossover.HardClassTest" time="6.342"/>
+  <testcase name="shouldReturnIllegalArgumentException_WhenRatingExceedsCeiling" classname="com.crossover.HardClassTest" time="0.887"/>
+  <testcase name="shouldReturnNOTAPP_WhenRatingIsNotApproved" classname="com.crossover.HardClassTest" time="0.013"/>
+  <testcase name="shouldReturnCACHED_WhenRatingEqualsCachedValue" classname="com.crossover.HardClassTest" time="0.011"/>
+  <testcase name="shouldReturnTOP_WhenRatingEqualsCeiling" classname="com.crossover.HardClassTest" time="0.011"/>
+  <testcase name="shouldReturnLOW_WhenRatingIsLessThenMidCeiling" classname="com.crossover.HardClassTest" time="0.005"/>
+  <testcase name="shouldSendNotification_WhenRatingIsValid" classname="com.crossover.HardClassTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
